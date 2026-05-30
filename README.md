@@ -119,6 +119,6 @@ retail-market-basket-intelligence/
 ---
 
 ### 👨‍💻 Author
-**Karthik Yelugam** | *Data Analyst* [LinkedIn Profile](https://www.linkedin.com/in/karthik-yelugam/) | [GitHub Profile](https://github.com/Karthik-Yelugam) | [Email](karthikyelugam09@gmail.com)
+**Karthik Yelugam** | *Data Analyst* [LinkedIn Profile](https://www.linkedin.com/in/karthik-yelugam/) | [GitHub Profile](https://github.com/Karthik-Yelugam)
 
 *If you found this project interesting or useful, feel free to ⭐ the repository!*
